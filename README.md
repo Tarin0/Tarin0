@@ -1,5 +1,4 @@
 
-![MasterHead](https://cdn-kehhb.nitrocdn.com/iEJFLbwsQHQzpVjXnwXhzYxhRIedkADp/assets/images/optimized/rev-f33d651/devtechnosys.com/insights/wp-content/uploads/2022/01/Hire-React-Native.gif)]
 <h1 align="center">Hi 👋, I'm Fatema Mostafa Tarin</h1>
 <h3 align="center">A Passionate Learner ,Programmer and Web Developer</h3>
 
