@@ -8,11 +8,9 @@
 
 - 🔭 I have worked on [Job Portal Website](https://inquisitive-tulumba-ee0976.netlify.app/)
 
-- 🔭 I have worked on [Ecommerce Website](https://ecommerce-website-4f697.web.app/)
-
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **C++, MERN**
+- 💬 Ask me about **C++, Javascript**
 
 - 📫 How to reach me **tarinmustafa228150@gmail.com**
 
