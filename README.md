@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **C++, Javascript**
 
-- 📫 How to reach me **tarinmustafa228150@gmail.com**
+- 📫 How to reach me **f.m.tarin.cse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
